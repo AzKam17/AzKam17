@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aziz KAMAGATE</h1>
+<h1 align="center">Hi 👋, I'm Az</h1>
 <h3 align="center">A passionate of innovation</h3>
 
 - 🍫 I’m currently working on saving cocoa in West Africa. **CocoaShield**
