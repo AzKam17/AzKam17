@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aziz KAMAGATE</h1>
 <h3 align="center">A passionate of innovation</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azkam17" alt="azkam17" /></a> </p>
-
 - 🍫 I’m currently working on saving cocoa in West Africa. **CocoaShield**
 
 - 🌱 and also helping people to find jobs **RedocCV**
